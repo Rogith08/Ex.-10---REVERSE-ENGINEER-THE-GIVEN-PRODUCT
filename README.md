@@ -1,6 +1,7 @@
-# Ex.04   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 26-05-2026
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
+### Name: ROGITH K
+### Register Number: 212223110042
+### DATE: 01-06-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -30,14 +31,22 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-### OUTPUT:
+## Input:
 
-<img width="1175" height="831" alt="image" src="https://github.com/user-attachments/assets/89c0b51c-16cf-4f0a-b919-4ddd381e6ff5" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
 
-<img width="1919" height="1019" alt="Screenshot 2026-06-03 143604" src="https://github.com/user-attachments/assets/35624899-5686-4f68-a90c-c253670ae923" />
 
-### Name: ROGITH K
-### Register Number: 212223110042
+
+### Output:
+
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/e7664553-695e-4840-8f16-edae7d632f5e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76ef4b2c-54e7-4ae7-8b59-21f93c514487" />
+
+
+
+
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
